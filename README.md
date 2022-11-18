@@ -23,3 +23,5 @@ I have implemented filtering data on frontend by using javascript functions and 
 
 For backend running, run the command "node ./server/index"
 For frontend running, run the command "npm start"
+
+![image](https://user-images.githubusercontent.com/85962586/202782205-8a895f63-9d99-42b8-b21a-a8d882d4af63.png)
